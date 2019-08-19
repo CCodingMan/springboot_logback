@@ -1,0 +1,98 @@
+2019-07-18 10:15:14.177 [main] INFO  c.l.s.SpringbootLogbackApplication - Starting SpringbootLogbackApplication on DESKTOP-0R2GESS with PID 13924 (F:\IDEA_workSpace\myspringboot\springboot_logback\target\classes started by 26939 in F:\IDEA_workSpace\myspringboot\springboot_logback)
+2019-07-18 10:15:14.179 [main] INFO  c.l.s.SpringbootLogbackApplication - No active profile set, falling back to default profiles: default
+2019-07-18 10:15:14.897 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-18 10:15:14.912 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-18 10:15:14.921 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-18 10:15:14.921 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-18 10:15:15.015 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-18 10:15:15.016 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 802 ms
+2019-07-18 10:15:15.284 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-18 10:15:15.433 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-18 10:15:15.452 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-18 10:15:15.454 [main] INFO  c.l.s.SpringbootLogbackApplication - Started SpringbootLogbackApplication in 1.731 seconds (JVM running for 2.703)
+2019-07-18 10:15:50.816 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-18 10:15:50.816 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-18 10:15:50.823 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-07-18 10:16:43.989 [main] INFO  c.l.s.SpringbootLogbackApplication - Starting SpringbootLogbackApplication on DESKTOP-0R2GESS with PID 17172 (F:\IDEA_workSpace\myspringboot\springboot_logback\target\classes started by 26939 in F:\IDEA_workSpace\myspringboot\springboot_logback)
+2019-07-18 10:16:43.991 [main] INFO  c.l.s.SpringbootLogbackApplication - No active profile set, falling back to default profiles: default
+2019-07-18 10:16:44.735 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-18 10:16:44.746 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-18 10:16:44.754 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-18 10:16:44.754 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-18 10:16:44.850 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-18 10:16:44.850 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 823 ms
+2019-07-18 10:16:45.038 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-18 10:16:45.154 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-18 10:16:45.175 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-18 10:16:45.178 [main] INFO  c.l.s.SpringbootLogbackApplication - Started SpringbootLogbackApplication in 1.534 seconds (JVM running for 2.499)
+2019-07-18 10:16:54.927 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-18 10:16:54.927 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-18 10:16:54.931 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-07-18 10:16:54.949 [http-nio-8080-exec-1] INFO  c.ljj.springboot_logback.controller.TestController - test访问了index
+2019-07-18 10:16:54.949 [http-nio-8080-exec-1] ERROR c.ljj.springboot_logback.controller.TestController - test测试error日志
+2019-07-18 10:17:32.511 [main] INFO  c.l.s.SpringbootLogbackApplication - Starting SpringbootLogbackApplication on DESKTOP-0R2GESS with PID 10644 (F:\IDEA_workSpace\myspringboot\springboot_logback\target\classes started by 26939 in F:\IDEA_workSpace\myspringboot\springboot_logback)
+2019-07-18 10:17:32.513 [main] INFO  c.l.s.SpringbootLogbackApplication - No active profile set, falling back to default profiles: default
+2019-07-18 10:17:33.280 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-18 10:17:33.291 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-18 10:17:33.299 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-18 10:17:33.299 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-18 10:17:33.419 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-18 10:17:33.419 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 867 ms
+2019-07-18 10:17:33.591 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-18 10:17:33.716 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-18 10:17:33.737 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-18 10:17:33.741 [main] INFO  c.l.s.SpringbootLogbackApplication - Started SpringbootLogbackApplication in 1.571 seconds (JVM running for 2.552)
+2019-07-18 10:17:45.206 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-18 10:17:45.206 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-18 10:17:45.211 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-07-18 10:18:59.179 [main] INFO  c.l.s.SpringbootLogbackApplication - Starting SpringbootLogbackApplication on DESKTOP-0R2GESS with PID 22076 (F:\IDEA_workSpace\myspringboot\springboot_logback\target\classes started by 26939 in F:\IDEA_workSpace\myspringboot\springboot_logback)
+2019-07-18 10:18:59.182 [main] INFO  c.l.s.SpringbootLogbackApplication - No active profile set, falling back to default profiles: default
+2019-07-18 10:18:59.946 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-18 10:18:59.960 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-18 10:18:59.973 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-18 10:18:59.973 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-18 10:19:00.058 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-18 10:19:00.059 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 841 ms
+2019-07-18 10:19:00.237 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-18 10:19:00.352 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-18 10:19:00.371 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-18 10:19:00.373 [main] INFO  c.l.s.SpringbootLogbackApplication - Started SpringbootLogbackApplication in 1.537 seconds (JVM running for 2.474)
+2019-07-18 10:19:16.297 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-18 10:19:16.297 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-18 10:19:16.304 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-07-18 10:19:34.618 [http-nio-8080-exec-2] INFO  com.ljj.springboot_logback.TestController - test访问了index
+2019-07-18 10:19:34.618 [http-nio-8080-exec-2] ERROR com.ljj.springboot_logback.TestController - test测试error日志
+2019-07-18 10:38:45.742 [main] INFO  c.l.s.SpringbootLogbackApplication - Starting SpringbootLogbackApplication on DESKTOP-0R2GESS with PID 5572 (F:\IDEA_workSpace\myspringboot\springboot_logback\target\classes started by 26939 in F:\IDEA_workSpace\myspringboot\springboot_logback)
+2019-07-18 10:38:45.744 [main] INFO  c.l.s.SpringbootLogbackApplication - No active profile set, falling back to default profiles: default
+2019-07-18 10:38:46.531 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-18 10:38:46.543 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-18 10:38:46.552 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-18 10:38:46.553 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-18 10:38:46.632 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-18 10:38:46.632 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 850 ms
+2019-07-18 10:38:46.810 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-18 10:38:46.959 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-18 10:38:46.988 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-18 10:38:46.993 [main] INFO  c.l.s.SpringbootLogbackApplication - Started SpringbootLogbackApplication in 1.597 seconds (JVM running for 2.575)
+2019-07-18 10:39:02.789 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-18 10:39:02.789 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-18 10:39:02.795 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-07-18 10:39:02.813 [http-nio-8080-exec-1] INFO  c.l.springboot_logback.controller.IndexController - 访问了index
+2019-07-18 10:39:02.813 [http-nio-8080-exec-1] ERROR c.l.springboot_logback.controller.IndexController - 测试error日志
+2019-07-18 10:46:22.508 [main] INFO  c.l.s.SpringbootLogbackApplication - Starting SpringbootLogbackApplication on DESKTOP-0R2GESS with PID 12100 (F:\IDEA_workSpace\myspringboot\springboot_logback\target\classes started by 26939 in F:\IDEA_workSpace\myspringboot\springboot_logback)
+2019-07-18 10:46:22.512 [main] INFO  c.l.s.SpringbootLogbackApplication - No active profile set, falling back to default profiles: default
+2019-07-18 10:46:23.270 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-07-18 10:46:23.282 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-18 10:46:23.290 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-18 10:46:23.290 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-18 10:46:23.369 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-18 10:46:23.369 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 825 ms
+2019-07-18 10:46:23.543 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-18 10:46:23.659 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-18 10:46:23.679 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-18 10:46:23.683 [main] INFO  c.l.s.SpringbootLogbackApplication - Started SpringbootLogbackApplication in 1.514 seconds (JVM running for 2.469)
+2019-07-18 10:46:31.269 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-18 10:46:31.269 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-07-18 10:46:31.275 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-07-18 10:46:57.135 [http-nio-8080-exec-3] INFO  com.ljj.springboot_logback.TestController - test访问了index
+2019-07-18 10:46:57.136 [http-nio-8080-exec-3] ERROR com.ljj.springboot_logback.TestController - test测试error日志

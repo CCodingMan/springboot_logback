@@ -1,0 +1,3 @@
+logging:
+  level:
+    com.ljj.springboot_logback.controller: off
